@@ -16,6 +16,10 @@ public class Test_2 {
 		System.out.println("binu");
 		
 		
+		System.out.println("Esra");
+		
+		System.out.println("Ethel");
+		
 	}
 
 }
